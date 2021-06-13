@@ -15,13 +15,13 @@ Studio ha trovato tracce di covid-19 in acque di scarico a marzo 2019.
 [link articolo](https://www.adnkronos.com/covid-lo-studio-a-barcellona-gia-a-marzo-2019_3Co8YageEwoCOdf6tRDgSP)
 [](assets/pdf/covid-2019-marzo.pdf)
 
-Studio ha trovato tracce di covid-19 dopo uno screeneng sul cancro a settembre 2019.
+Studio ha trovato tracce di covid-19 dopo uno screening sul cancro a settembre 2019.
 [link articolo](https://www.ilgiornale.it/news/cronache/studio-coronavirus-circolava-italia-gi-nell-estate-2019-1903463.html)
 [](assets/pdf/covid-2019-settembre.pdf)
 
 
-### Come ha origin il Covid-19
-Montagner, premio Nobel per la medicina, affema che il coronavirus è stato manipolato per un vaccino anti-Aids.
+### Come ha origine il Covid-19
+Montagner, premio Nobel per la medicina, afferma che il coronavirus è stato manipolato per un vaccino anti-Aids.
 [link articolo](https://www.agi.it/estero/news/2020-04-17/coronavirus-montagnier-wuhan-8364636/)
 [](assets/pdf/covid-19-aids-montagner.pdf)
 
@@ -55,8 +55,8 @@ La terapia genica mRNA come:
  
 I vaccini mRna non sono mai stati usati prima sull'uomo.
  
-Ufficialmente viene detto che sono in corso studi sulla trasmissione del virus da partedi chi si è vaccinato.
-Come riportato sotto chi si è vaccinato si può contagiare.
+Ufficialmente viene detto che sono in corso studi sulla trasmissione del virus da parte di chi si è vaccinato.
+Come si può vedere dai due articoli linkati sotto chi si è vaccinato si può contagiare.
 O forse chi si è vaccinato è contagiato?
 [link articolo italia](https://www.lagazzettadelmezzogiorno.it/news/brindisi/1279431/fasano-43-contagiati-in-una-rsa-avevano-ricevuto-gia-tutti-il-vaccino.html)
 [](assets/pdf/vaccinati-contagiati.pdf)
@@ -64,7 +64,7 @@ O forse chi si è vaccinato è contagiato?
 [link articolo america](https://www.adnkronos.com/covid-usa-10mila-contagi-in-vaccinati-in-4-mesi_6Z9kQSL8dJVKg0TuGAQmP0)
 [](assets/pdf/usa-contagi-vaccinati.pdf)
 
-Il vaccino, viene raccontato, halo scopo di ridurre la gravità dela malattia, nel caso la si contragga.
+Il vaccino, viene raccontato, ha lo scopo di ridurre la gravità della malattia, nel caso la si contragga.
 Come vedremo dopo, non vi è una forma grave, dipende solo dalla tempestività della cura; se si attende il peggioramento diventa grave, se si interviene tempestivamente non diventa grave.
 [link documento](https://www.aifa.gov.it/documents/20142/1297852/domande_risposte_vaccini_COVID.pdf)
 []()
@@ -148,10 +148,10 @@ I vaccini possono ridurre la produzione di proteine cellulari fino all'80%. Vacc
 [](assets/video/vaccini-effetti-collaterali.mp4)
 
 #### Proteina spike
-La proteina spike è alla origine delle trombosi che colpiscono come icuts e infarti, creando coauguli di sangue.
+La proteina spike è alla origine delle trombosi che colpiscono come icuts e infarti, creando coaguli di sangue.
 Questa proteina passa la barriera ematoencefalica.
 La proteina spike è una pericolosa tossina.
-Le donazioni di sangue non sono più sicure perchè la proteina spike viene trasmessa.
+Le donazioni di sangue non sono più sicure perché la proteina spike viene trasmessa.
 Durante l'allattamento viene trasmessa questa proteina.
 [link articolo](https://www.databaseitalia.it/ricercatore-sui-vaccini-ammette-grave-errore-la-proteina-spike-e-una-pericolosa-tossina/)
  | 
@@ -159,7 +159,7 @@ Durante l'allattamento viene trasmessa questa proteina.
 
 
 #### Effetti sulle generazioni future
-Montagner spiega effetto di un mRna sulle generazioni future, come avviene nelle colture con il glisofato.
+Montagner spiega effetto di un mRna sulle generazioni future, come avviene nelle colture con il glifosato.
 [link articolo](https://www.meridiananotizie.it/2021/05/cronaca/covid-19-vaccini-il-premio-nobel-prof-luc-montagnier-luomo-non-puo-essere-utilizzato-come-cavia-laccettazione-e-un-errore-perche-rischiamo-di-avere-effetti-assolutamente-imprevedibili/)
  | 
 [link video](https://www.meridiananotizie.it/wp-content/uploads/2021/05/IL-PARERE-DEL-PREMIO-NOBEL-LUC-MONTAGNIER-SULLA-VACCINAZIONE-ANTI-COVID-VIDEO-IN-ITALIANO.mp4)
@@ -169,17 +169,17 @@ Montagner spiega effetto di un mRna sulle generazioni future, come avviene nelle
 
 #### Reazioni avverse e morti
 
-La cina interrompe i vaccini.
+La Cina interrompe i vaccini.
 [link immagine](assets/images/cina-interrompe-vaccinazioni.jpg)
 
 Vaccino e trombosi, correlazione certa
 [link articolo](https://www.liberoquotidiano.it/news/scienze-tech/27529308/astrazeneca-professoressa-poli-connessione-vaccino-trombosi-certa-tasso-letalita-30-per-cento.html)
 [](assets/pdf/vaccino-trombosi.pdf)
 
-Attualmente, giugno 2021, vi è una campagna mediatica contro astrazeneca, ma i dati dicono che pfizer dia più reazioni avverse.
+Attualmente, giugno 2021, vi è una campagna mediatica contro Astrazeneca, ma i dati dicono che Pfizer dia più reazioni avverse.
 [link articolo](https://stopcensura.online/esperto-incolpano-astrazeneca-come-se-gli-altri-vaccini-non-causino-gli-stessi-problemi/)
 
-Il sito dell'aifa, tramite il suo rapporto di farmacovigilanza mostra come pfizer abbia più reazioni avverse, al netto che come detto da vari medici, non vengono raccolte tutte.
+Il sito dell'Aifa, tramite il suo rapporto di farmacovigilanza mostra come Pfizer abbia più reazioni avverse, al netto che come detto da vari medici, non vengono raccolte tutte.
 [link documento](https://www.aifa.gov.it/documents/20142/1315190/Rapporto_sorveglianza_vaccini_COVID-19_4.pdf)
 [](assets/pdf/Rapporto_sorveglianza_vaccini_COVID-19_4.pdf)
 
@@ -190,7 +190,7 @@ AstraZeneca: 34 (0,85 su 100mila)
 [link articolo](https://quifinanza.it/info-utili/video/vaccini-covid-morti/489383/)
 [](assets/pdf/vaccini-morti.pdf)
 
-In inghilterra le segnalazioni per morti sono maggiori
+In Inghilterra le segnalazioni per morti sono maggiori
 [link articolo](https://www.renovatio21.com/vaccinazioni-covid-il-governo-britannico-segnala-847-morti-12-lesioni-cerebrali-112-ciechi-a-seguito-delle-iniezioni/)
 [](assets/inghilterra-vaccini-reazioni-avverse.pdf)
 
@@ -211,7 +211,7 @@ Fare un sierologico prima di un vaccino potrebbe dare una falsa sicurezza.
 
 
 ### Le vere cure
-Le cure che ci sono state dal 2020 ad oggi sono state tutte respinte, nonostante la loro compravata efficacia:
+Le cure che ci sono state dal 2020 ad oggi sono state tutte respinte, nonostante la loro comprovata efficacia:
  - plasma iperimmune
  - clorochina
  - idrossiclorochina
@@ -238,8 +238,6 @@ Ma poi vi è stato un dietrofront dell'Aifa, nel ripristinare tachipirina e vigi
 [link articolo](https://www.centrostudilivatino.it/perplessita-sulla-sentenza-del-cons-di-stato-su-covid-19-e-cure-domiciliari/)
 [](assets/pdf/consigli-stato-covid-19-cure-domiciliari.pdf)
 
-Differenza fra cura e vigile attesa
-[link immagine](assets/images/differenze-tra-cura-vigile-attesa.jpg)
 
 #### Quando si può usare un farmaco sperimentale
 I farmaci sperimentali possono essere messi in commercio solo se non vi è una cura alternativa.
@@ -253,7 +251,7 @@ Il documento che lo conferma.
 
 ### Farmaci raccomandati da AIFA
 Cosa raccomanda e sconsiglia.
-Si noti ce sconsiglia farmaci che molti medici hanno usato per curare le persone a casa.
+Si noti che sconsiglia farmaci che molti medici hanno usato per curare le persone a casa.
 [link documento](https://www.aifa.gov.it/documents/20142/1269602/IT_Raccomandazioni_AIFA_gestione_domiciliare_COVID-19_Vers.2-Agg._26.04.2021.pdf)
 [](assets/pdf/IT_Raccomandazioni_AIFA_gestione_domiciliare_COVID-19_Vers.2-Agg._26.04.2021.pdf)
 
@@ -291,7 +289,7 @@ Il contatto profondo con questi materiali non biocompatibili e a volte chimicame
 [](assets/pdf/metalli-pesanti-leucemia.pdf)
 
 
-### Un po di numeri 
+### Un po' di numeri 
 ISS statistiche sui decessi, tenendo a mente che i tamponi non sono attendibili.
 Caratteristiche dei decessi al 28 aprile 2021
 [link documento](https://www.epicentro.iss.it/coronavirus/bollettino/Report-COVID-2019_28_aprile_2021.pdf)
@@ -312,10 +310,10 @@ donne 85 anni – uomini 80 anni).
 
 
 #### Come si contano i morti
-I morti vengono contati nel seguente modo, ammesso pubblicamente da Zaia in una conferneza:
+I morti vengono contati nel seguente modo, ammesso pubblicamente da Zaia in una confernza:
 chi è risultato positivo ad un tampone anche se negativizzato, è un morto covid. 
 Chi muore per qualsiasi causa ed è positivo al covid, è un morto covid.
 [link video](https://www.youtube.com/watch?v=DbLexATtOl0)
 [](assets/video/zaia-morti-covid.mp4)
 
-Vengono fatti tamponi anche a chi è già decedutoper far si che risulti covid?
+Vengono fatti tamponi anche a chi è già deceduto per far si che risulti covid?
