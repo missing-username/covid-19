@@ -218,6 +218,8 @@ Le cure che ci sono state dal 2020 ad oggi sono state tutte respinte, nonostante
  - eparina
  - azoto
  - camera iperbarica
+ - ivermectina
+ - ...
  
 Un video di Mazzucco lo spiega molto bene.
 [link video](https://www.byoblu.com/2021/05/14/covid-le-cure-proibite-massimo-mazzucco/)
