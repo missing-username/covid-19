@@ -233,6 +233,7 @@ Le cure ci sono, come scritto sopra e funzionano riducendo a quasi 0 le ospedali
 Questo è in contrasto con tachipirina e vigile attesa, strada per la ospedalizzazione, scelta dal governo italiano.
 
 Per la cronaca l'avvocato Grimaldi, fondatore di Terapie Domiciliari Covid 19 era riuscito a cambiare i protocolli di vigile attesa.
+[link articolo](https://www.infermieristicamente.it/articolo/13460/tar-boccia-aifa-stop-alla--vigile-attesa--domiciliare-per-il-covid)
 
 Ma poi vi è stato un dietrofront dell'Aifa, nel ripristinare tachipirina e vigile attesa. (Giustificativo per il vaccino sperimentale)
 [link articolo](https://www.centrostudilivatino.it/perplessita-sulla-sentenza-del-cons-di-stato-su-covid-19-e-cure-domiciliari/)
