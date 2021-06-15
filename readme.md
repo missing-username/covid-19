@@ -37,6 +37,71 @@ Studio, aggiunte alle email di Fauci, dimostrano come il covid-19 sia nato in la
 [link video studio](https://www.youtube.com/watch?v=sbDMZ4YSJPI)
 [](assets/video/origine-covid.mp4)
 
+---
+
+### Tamponi
+Il tampone fatto col test PCR per avere attendibilità deve essere fatto sotto i 28 cicli.
+[immagine](assets/images/test-28-cicli.jpg)
+
+Vi è una causa in corso per l'inattendibilità dei tamponi da parte dell'avvocato Sandri.
+I tamponi, così farlocchi, hanno permesso di tenere alti i contagi e i morti con covid-19.
+[immagine](assets/images/avv-sandri-test-pcr.jpg)
+
+
+#### Affidabilità tamponi
+Il presidente della Tanzania ha fatto una semplice prova per dimostrare l'inattendibilità dei tamponi.
+[link video](https://www.youtube.com/watch?v=KHpn7zRX1Jc)
+[](assets/video/tanzania-test-covid.mp4)
+
+Parlamentare austriaco mostra al parlamento come la coca-cola sia positiva al covid-19.
+[link video](https://www.youtube.com/watch?v=qbp9P72N-xw)
+[](assets/video/coca-cola-positiva-test.mp4)
+
+
+#### Tamponi e metalli pesanti
+La dott.ssa Gatti ha effettuato delle analisi sui tamponi rilevando metalli pesanti.
+[link video](https://www.youtube.com/watch?v=tbUbW0TqSpw)
+[](assets/video/gatti-tamponi-metalli-pesanti.mp4)
+
+I metalli pesanti sono tossici per l'uomo, possono indurre a malattie fisiche e mentali.
+
+
+#### Metalli pesanti e leucemie
+Il contatto profondo con questi materiali non biocompatibili e a volte chimicamente tossici potrebbe contribuire al processo della malattia.
+[link articolo](http://www.ailpesaro.com/it/newseventi/news/2016-12-20-scoperta-senza-precedenti-leucemia-acuta-mieloide/)
+[](assets/pdf/metalli-pesanti-leucemia.pdf)
+
+
+### Un po' di numeri 
+ISS statistiche sui decessi, tenendo a mente che i tamponi non sono attendibili.
+Caratteristiche dei decessi al 28 aprile 2021
+[link documento](https://www.epicentro.iss.it/coronavirus/bollettino/Report-COVID-2019_28_aprile_2021.pdf)
+[](assets/pdf/Report-COVID-2019_28_aprile_2021.pdf)
+```
+2. Caratteristiche demografiche dei deceduti
+L’età media dei pazienti deceduti e positivi a SARS-CoV-2 è
+81 anni (mediana 82, range 0-109, Range InterQuartile - IQR
+74-88). Le donne decedute sono 51.730 (43,6%). La figura 1
+mostra che l’età mediana dei pazienti deceduti positivi a
+SARS-CoV-2 è più alta di oltre 30 anni rispetto a quella dei
+pazienti che hanno contratto l’infezione (età mediane:
+pazienti deceduti 82 anni – pazienti con infezione 47 anni).
+La figura 2 mostra il numero dei decessi per fascia di età. Le
+donne decedute dopo aver contratto infezione da SARS-CoV2 hanno un’età più alta rispetto agli uomini (età mediane:
+donne 85 anni – uomini 80 anni).
+```
+
+
+#### Come si contano i morti
+I morti vengono contati nel seguente modo, ammesso pubblicamente da Zaia in una confernza:
+chi è risultato positivo ad un tampone anche se negativizzato, è un morto covid. 
+Chi muore per qualsiasi causa ed è positivo al covid, è un morto covid.
+[link video](https://www.youtube.com/watch?v=DbLexATtOl0)
+[](assets/video/zaia-morti-covid.mp4)
+
+Vengono fatti tamponi anche a chi è già deceduto per far si che risulti covid?
+
+---
 
 ### L'arma del governo
 
@@ -157,6 +222,11 @@ Durante l'allattamento viene trasmessa questa proteina.
  | 
 [link video](assets/video/studio-proteina-spike.mp4)
 
+Anche Ansa riporta lo studio effettuato sulla proteina spike causa di ictus e trobosi.
+[link articolo salute benessere](https://www.ansa.it/canale_saluteebenessere/notizie/salute_bambini/medicina/2021/05/11/covidspike-danneggia-direttamente-cellule-di-vasi-sanguigni_6ba56a18-2c1a-48c5-9ae5-51a7204054f9.html)
+ | 
+[link articolo ansa](https://www.ogginotizie.eu/ogginotizie/dopo-la-notizia-dellansa-che-la-proteina-spike-danneggia-le-cellule-i-politici-sono-silenti-il-mic-chiede-spiegazioni-al-governo/)
+
 
 #### Effetti sulle generazioni future
 Montagner spiega effetto di un mRna sulle generazioni future, come avviene nelle colture con il glifosato.
@@ -209,6 +279,7 @@ Fare un sierologico prima di un vaccino potrebbe dare una falsa sicurezza.
 [link video](https://www.youtube.com/watch?v=V3HSzO2BvTg)
 [](roy-de-vita/video/roy-de-vita-memoria-immunologica.mp4)
 
+---
 
 ### Le vere cure
 Le cure che ci sono state dal 2020 ad oggi sono state tutte respinte, nonostante la loro comprovata efficacia:
@@ -256,65 +327,3 @@ Si noti che sconsiglia farmaci che molti medici hanno usato per curare le person
 [link documento](https://www.aifa.gov.it/documents/20142/1269602/IT_Raccomandazioni_AIFA_gestione_domiciliare_COVID-19_Vers.2-Agg._26.04.2021.pdf)
 [](assets/pdf/IT_Raccomandazioni_AIFA_gestione_domiciliare_COVID-19_Vers.2-Agg._26.04.2021.pdf)
 
-
-### Tamponi
-Il tampone fatto col test PCR per avere attendibilità deve essere fatto sotto i 28 cicli.
-[immagine](assets/images/test-28-cicli.jpg)
-
-Vi è una causa in corso per l'inattendibilità dei tamponi da parte dell'avvocato Sandri.
-I tamponi, così farlocchi, hanno permesso di tenere alti i contagi e i morti con covid-19.
-[immagine](assets/images/avv-sandri-test-pcr.jpg)
-
-
-#### Affidabilità tamponi
-Il presidente della Tanzania ha fatto una semplice prova per dimostrare l'inattendibilità dei tamponi.
-[link video](https://www.youtube.com/watch?v=KHpn7zRX1Jc)
-[](assets/video/tanzania-test-covid.mp4)
-
-Parlamentare austriaco mostra al parlamento come la coca-cola sia positiva al covid-19.
-[link video](https://www.youtube.com/watch?v=qbp9P72N-xw)
-[](assets/video/coca-cola-positiva-test.mp4)
-
-
-#### Tamponi e metalli pesanti
-La dott.ssa Gatti ha effettuato delle analisi sui tamponi rilevando metalli pesanti.
-[link video](https://www.youtube.com/watch?v=tbUbW0TqSpw)
-[](assets/video/gatti-tamponi-metalli-pesanti.mp4)
-
-I metalli pesanti sono tossici per l'uomo, possono indurre a malattie fisiche e mentali.
-
-
-#### Metalli pesanti e leucemie
-Il contatto profondo con questi materiali non biocompatibili e a volte chimicamente tossici potrebbe contribuire al processo della malattia.
-[link articolo](http://www.ailpesaro.com/it/newseventi/news/2016-12-20-scoperta-senza-precedenti-leucemia-acuta-mieloide/)
-[](assets/pdf/metalli-pesanti-leucemia.pdf)
-
-
-### Un po' di numeri 
-ISS statistiche sui decessi, tenendo a mente che i tamponi non sono attendibili.
-Caratteristiche dei decessi al 28 aprile 2021
-[link documento](https://www.epicentro.iss.it/coronavirus/bollettino/Report-COVID-2019_28_aprile_2021.pdf)
-[](assets/pdf/Report-COVID-2019_28_aprile_2021.pdf)
-```
-2. Caratteristiche demografiche dei deceduti
-L’età media dei pazienti deceduti e positivi a SARS-CoV-2 è
-81 anni (mediana 82, range 0-109, Range InterQuartile - IQR
-74-88). Le donne decedute sono 51.730 (43,6%). La figura 1
-mostra che l’età mediana dei pazienti deceduti positivi a
-SARS-CoV-2 è più alta di oltre 30 anni rispetto a quella dei
-pazienti che hanno contratto l’infezione (età mediane:
-pazienti deceduti 82 anni – pazienti con infezione 47 anni).
-La figura 2 mostra il numero dei decessi per fascia di età. Le
-donne decedute dopo aver contratto infezione da SARS-CoV2 hanno un’età più alta rispetto agli uomini (età mediane:
-donne 85 anni – uomini 80 anni).
-```
-
-
-#### Come si contano i morti
-I morti vengono contati nel seguente modo, ammesso pubblicamente da Zaia in una confernza:
-chi è risultato positivo ad un tampone anche se negativizzato, è un morto covid. 
-Chi muore per qualsiasi causa ed è positivo al covid, è un morto covid.
-[link video](https://www.youtube.com/watch?v=DbLexATtOl0)
-[](assets/video/zaia-morti-covid.mp4)
-
-Vengono fatti tamponi anche a chi è già deceduto per far si che risulti covid?
