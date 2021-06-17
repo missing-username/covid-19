@@ -111,7 +111,7 @@ donne 85 anni – uomini 80 anni).
 
 
 #### Come si contano i morti
-I morti vengono contati nel seguente modo, ammesso pubblicamente da Zaia in una confernza:
+I morti vengono contati nel seguente modo, ammesso pubblicamente da Zaia in una conferenza:
 chi è risultato positivo ad un tampone anche se negativizzato, è un morto covid. 
 Chi muore per qualsiasi causa ed è positivo al covid, è un morto covid.
 [link video](https://www.youtube.com/watch?v=DbLexATtOl0)
@@ -208,7 +208,7 @@ I vaccini possono ridurre la produzione di proteine cellulari fino all'80%. Vacc
 [](assets/video/vaccini-effetti-collaterali.mp4)
 
 #### Proteina spike
-La proteina spike è alla origine delle trombosi che colpiscono come icuts e infarti, creando coaguli di sangue.
+La proteina spike è alla origine delle trombosi che colpiscono come ictus e infarti, creando coaguli di sangue.
 Questa proteina passa la barriera ematoencefalica.
 La proteina spike è una pericolosa tossina.
 Le donazioni di sangue non sono più sicure perché la proteina spike viene trasmessa.
@@ -217,7 +217,7 @@ Durante l'allattamento viene trasmessa questa proteina.
  | 
 [link video](assets/video/studio-proteina-spike.mp4)
 
-Anche Ansa riporta lo studio effettuato sulla proteina spike causa di ictus e trobosi.
+Anche Ansa riporta lo studio effettuato sulla proteina spike causa di ictus e trombosi.
 [link articolo salute benessere](https://www.ansa.it/canale_saluteebenessere/notizie/salute_bambini/medicina/2021/05/11/covidspike-danneggia-direttamente-cellule-di-vasi-sanguigni_6ba56a18-2c1a-48c5-9ae5-51a7204054f9.html)
  | 
 [link articolo ansa](https://www.ogginotizie.eu/ogginotizie/dopo-la-notizia-dellansa-che-la-proteina-spike-danneggia-le-cellule-i-politici-sono-silenti-il-mic-chiede-spiegazioni-al-governo/)
@@ -227,7 +227,7 @@ La spike si lega ai recettori ACE2 in tutto il corpo.
 [link articolo francese](https://jeminformetv.com/2021/06/15/vaccin-anti-covid19-du-poison-dans-le-corps/amp/)
 [link articolo tradotto ita](assets/pdf/autopsia-dopo-morte-vaccino-stato-organi.pdf)
 
-Studio conferma che la proteina spike bypassa la membrana emato-ecefalica.
+Studio conferma che la proteina spike bypassa la membrana emato-encefalica.
 [link articolo](https://www.biorxiv.org/content/biorxiv/early/2020/12/04/2020.12.04.409144.full.pdf)
 [](assets/pdf/studio-spike-barriera-emato-encefalica.pdf)
 
@@ -349,7 +349,7 @@ Il dott. Riccardo Szumski, che fa parte di terapie docimiciliari covid19, ha cur
 [link articolo](https://corrieredelveneto.corriere.it/veneto/cronaca/21_giugno_15/riccardo-szumski-non-mi-vaccinero-miei-pazienti-zero-decessi-870d40b4-cdb6-11eb-b3cc-7685f3a3aba2.shtml)
 [](assets/pdf/riccardo-szumski-vaccino.pdf)
 
-Anche medici in America usano gli stessi protoccoli che salvano le vite in Italia, ma che in entrambi i paesi non sono considerate cure
+Anche medici in America usano gli stessi protocolli che salvano le vite in Italia.
 [link articolo inglese](https://www.thegatewaypundit.com/2021/06/wayne-root-brilliant-hero-doctor-says-cdc-bureaucrats-democrat-politicians-guilty-mass-murder-crimes-humanity)
 [link articolo tradotto ita](assets/pdf/america-cure-domiciliari-bloccate.pdf)
  
