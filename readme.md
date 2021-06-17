@@ -202,46 +202,6 @@ Pfizer salta test critici sugli standard di qualità.
 [link articolo](https://www.databaseitalia.it/nuovi-documenti-rivelano-pfizer-ha-saltato-test-critici-sugli-standard-di-qualita/)
 
 
-#### Vaccini auto-disseminanti
-Un articolo del 19 Agosto 2020 che parla di vaccini auto-disseminanti. 
-
-"Questi “vaccini auto-disseminanti” possono essere sviluppati in almeno due modi. 
-L'approccio convenzionale si basa sull'applicazione di un vaccino sulla pelliccia degli animali catturati e sul loro rilascio. 
-Quando questi animali tornano alle loro case naturali, il grooming sociale fa sì che il vaccino venga ingerito da altri individui, amplificando il livello di immunità che può essere raggiunto.
-
-Un approccio più radicale si basa sull'inserimento di una piccola parte del genoma dell'agente della malattia infettiva in un virus benigno che si diffonde naturalmente attraverso la popolazione animale. 
-Poiché questo vaccino trasmissibile si diffonde da animale ad animale, li immunizza contro la malattia infettiva bersaglio, aumentando notevolmente l'immunità all'interno della popolazione animale e riducendo il rischio di spillover per l'uomo."
-[link articolo](https://www.newscientist.com/article/mg24732960-100-we-now-have-the-technology-to-develop-vaccines-that-spread-themselves/)
-[](assets/pdf/autodisseminanti/vaccines-that-spread-themselves.pdf)
-
-In uno studio del 1 Gennaio 2018 leggiamo anche:
-
-"_L'ingegneria genetica ora consente la progettazione di vaccini virali vivi potenzialmente trasmissibili. 
-Alcuni modelli modificano semplicemente un singolo genoma virale per migliorare il vecchio metodo di attenuazione, mentre altri modelli creano chimere di genomi virali. 
-La trasmissione ha il vantaggio di aumentare l'immunità di gregge e al di sopra di quella ottenuta dalla sola vaccinazione diretta, ma aumenta anche l'opportunità di evoluzione del vaccino, che in genere mina l'utilità del vaccino. 
-Disegni diversi hanno conseguenze epidemiologiche diverse ma subiscono anche un'evoluzione diversa. 
-Gli approcci che integrano l'ingegneria dei vaccini con una comprensione dell'evoluzione e dell'epidemiologia trarranno i maggiori benefici dalla trasmissione del vaccino._"
-
-
-Il 31 Gennaio 2020 The Telegraph scriveva anche:
-_POTREBBE UN VACCINO AUTODISSEMINANTE FERMARE LA PANDEMIA DEL CORONAVIRUS?_
-[link articolo telegraph](https://www.telegraph.co.uk/technology/2020/01/28/could-self-spreading-vaccines-stop-global-coronavirus-pandemic/)
-[](assets/pdf/autodisseminanti/could-self-spreading-vaccines-stop-coronavirus.pdf)
-
-[link articolo sciencedirect](https://www.sciencedirect.com/science/article/pii/S0966842X17302123)
-[](assets/pdf/autodisseminanti/S0966842X17302123.pdf)
-
-[link articolo core.ac.uk](https://core.ac.uk/download/pdf/74389584.pdf)
-[](assets/pdf/autodisseminanti/74389584.pdf)
-
-[link articolo nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4732410/)
-[](assets/pdf/autodisseminanti/PMC4732410.pdf)
-
-Pfizer, da pagina 67
-[link documento](https://cdn.pfizer.com/pfizercom/2020-11/C4591001_Clinical_Protocol_Nov2020.pdf)
-[](assets/pdf/autodisseminanti/C4591001_Clinical_Protocol_Nov2020.pdf)
-
-
 #### Nesso causalità vaccini - effetti collaterali
 I vaccini possono ridurre la produzione di proteine cellulari fino all'80%. Vaccinare durante picco pandemico creerà molte varianti.
 [link video](https://www.youtube.com/watch?v=ogsqxg9-_yg)
@@ -322,6 +282,47 @@ potrebbe accadere che il sierologico non rilevi gli anticorpi ma il corpo ricord
 Fare un sierologico prima di un vaccino potrebbe dare una falsa sicurezza.
 [link video](https://www.youtube.com/watch?v=V3HSzO2BvTg)
 [](roy-de-vita/video/roy-de-vita-memoria-immunologica.mp4)
+
+
+#### Vaccini auto-disseminanti
+Un articolo del 19 Agosto 2020 che parla di vaccini auto-disseminanti. 
+
+"Questi “vaccini auto-disseminanti” possono essere sviluppati in almeno due modi. 
+L'approccio convenzionale si basa sull'applicazione di un vaccino sulla pelliccia degli animali catturati e sul loro rilascio. 
+Quando questi animali tornano alle loro case naturali, il grooming sociale fa sì che il vaccino venga ingerito da altri individui, amplificando il livello di immunità che può essere raggiunto.
+
+Un approccio più radicale si basa sull'inserimento di una piccola parte del genoma dell'agente della malattia infettiva in un virus benigno che si diffonde naturalmente attraverso la popolazione animale. 
+Poiché questo vaccino trasmissibile si diffonde da animale ad animale, li immunizza contro la malattia infettiva bersaglio, aumentando notevolmente l'immunità all'interno della popolazione animale e riducendo il rischio di spillover per l'uomo."
+[link articolo](https://www.newscientist.com/article/mg24732960-100-we-now-have-the-technology-to-develop-vaccines-that-spread-themselves/)
+[](assets/pdf/autodisseminanti/vaccines-that-spread-themselves.pdf)
+
+In uno studio del 1 Gennaio 2018 leggiamo anche:
+
+"_L'ingegneria genetica ora consente la progettazione di vaccini virali vivi potenzialmente trasmissibili. 
+Alcuni modelli modificano semplicemente un singolo genoma virale per migliorare il vecchio metodo di attenuazione, mentre altri modelli creano chimere di genomi virali. 
+La trasmissione ha il vantaggio di aumentare l'immunità di gregge e al di sopra di quella ottenuta dalla sola vaccinazione diretta, ma aumenta anche l'opportunità di evoluzione del vaccino, che in genere mina l'utilità del vaccino. 
+Disegni diversi hanno conseguenze epidemiologiche diverse ma subiscono anche un'evoluzione diversa. 
+Gli approcci che integrano l'ingegneria dei vaccini con una comprensione dell'evoluzione e dell'epidemiologia trarranno i maggiori benefici dalla trasmissione del vaccino._"
+
+
+Il 31 Gennaio 2020 The Telegraph scriveva anche:
+_POTREBBE UN VACCINO AUTODISSEMINANTE FERMARE LA PANDEMIA DEL CORONAVIRUS?_
+[link articolo telegraph](https://www.telegraph.co.uk/technology/2020/01/28/could-self-spreading-vaccines-stop-global-coronavirus-pandemic/)
+[](assets/pdf/autodisseminanti/could-self-spreading-vaccines-stop-coronavirus.pdf)
+
+[link articolo sciencedirect](https://www.sciencedirect.com/science/article/pii/S0966842X17302123)
+[](assets/pdf/autodisseminanti/S0966842X17302123.pdf)
+
+[link articolo core.ac.uk](https://core.ac.uk/download/pdf/74389584.pdf)
+[](assets/pdf/autodisseminanti/74389584.pdf)
+
+[link articolo nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4732410/)
+[](assets/pdf/autodisseminanti/PMC4732410.pdf)
+
+Pfizer, da pagina 67
+[link documento](https://cdn.pfizer.com/pfizercom/2020-11/C4591001_Clinical_Protocol_Nov2020.pdf)
+[](assets/pdf/autodisseminanti/C4591001_Clinical_Protocol_Nov2020.pdf)
+
 
 ---
 
