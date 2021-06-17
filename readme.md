@@ -340,12 +340,12 @@ Le cure che ci sono state dal 2020 ad oggi sono state tutte respinte, nonostante
 Un video di Mazzucco lo spiega molto bene.
 [link video](https://www.byoblu.com/2021/05/14/covid-le-cure-proibite-massimo-mazzucco/)
 
-Per fare in modo che si possano usare terapie sperimentali sulla massa una condizione è:non devono esistere cure.
+Per fare in modo che si possano usare terapie sperimentali sulla massa una condizione è: non devono esistere cure.
 Vi sono vari gruppi, qui cito, quelli che conosco, ma possibile ve ne siano altri: 
  - https://www.terapiadomiciliarecovid19.org/
  - https://ippocrateorg.org/
  
-Il dott. Riccardo Szumski, che fa parte di terapie docimiciliari cocid19, ha curato i suoi pazienti con 0 decessi, non farà il vaccino perchè è una sperimentazione di massa.
+Il dott. Riccardo Szumski, che fa parte di terapie docimiciliari covid19, ha curato i suoi pazienti con 0 decessi, non farà il vaccino perchè è una sperimentazione di massa.
 [link articolo](https://corrieredelveneto.corriere.it/veneto/cronaca/21_giugno_15/riccardo-szumski-non-mi-vaccinero-miei-pazienti-zero-decessi-870d40b4-cdb6-11eb-b3cc-7685f3a3aba2.shtml)
 [](assets/pdf/riccardo-szumski-vaccino.pdf)
 
