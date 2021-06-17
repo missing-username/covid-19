@@ -39,6 +39,20 @@ Studio, aggiunte alle email di Fauci, dimostrano come il covid-19 sia nato in la
 
 ---
 
+### Virus isolato in Italia
+
+Il 29/02/2020 una ricercatrice che ha contribuito ad isolare il ceppo Italiano, afferma che:
+- virus isolato il ceppo Italiano, non tutta la sequenza
+- virus non è pericoloso da creare una pandemia
+- mascherina solo per chi è infetto
+- gel mani non serve
+
+[link articolo](https://www.ilgiorno.it/legnano/cronaca/coronavirus-mascherina-1.5051030)
+[](assets/pdf/ricercatrice-ceppo-mascherina-gel.pdf)
+
+
+---
+
 ### Tamponi
 Il tampone fatto col test PCR per avere attendibilità deve essere fatto sotto i 28 cicli.
 [immagine](assets/images/test-28-cicli.jpg)
@@ -56,6 +70,10 @@ Il presidente della Tanzania ha fatto una semplice prova per dimostrare l'inatte
 Parlamentare austriaco mostra al parlamento come la coca-cola sia positiva al covid-19.
 [link video](https://www.youtube.com/watch?v=qbp9P72N-xw)
 [](assets/video/coca-cola-positiva-test.mp4)
+
+Il test PCR sopra i 17 cicli da come esito il 30% di falsi positivi, sopra i 30 cicli ha una affidabilità pari allo 0%.
+[link video](https://playmastermovie.com/fuori-dal-virus-scacco-matto-al-tampone-prof-stefano-scoglio)
+[](assets/videos/)
 
 
 #### Tamponi e metalli pesanti
@@ -129,6 +147,14 @@ O forse chi si è vaccinato è contagiato?
 [link articolo america](https://www.adnkronos.com/covid-usa-10mila-contagi-in-vaccinati-in-4-mesi_6Z9kQSL8dJVKg0TuGAQmP0)
 [](assets/pdf/usa-contagi-vaccinati.pdf)
 
+Anche in lombardia positivi dopo il vaccino, oltre 18mila persone.
+[link articolo](https://www.meteoweb.eu/2021/06/lombardia-18-mila-positivi-dopo-il-vaccino/1697353/?fbclid=IwAR2yd42riaNw6yohvUOYG_L0_SI821HwsHrmdEok1JDuxcmo_w685Ym_bwQ)
+[](assets/pdf/lombardia-positivi-dopo-vaccino.pdf)
+
+Pfizer conferma che i vaccinati possono trasmettere il virus.
+[link articolo francese](http://www.actuintel.com/2021/05/06/pfizer-confirme-que-les-personnes-vaccinees-contre-le-covid-peuvent-transmettre-des-proteines-de-pointe-et-nuire-aux-personnes-non-vaccinees)
+[link articolo tradotto ita](assets/pdf/)
+
 Il vaccino, viene raccontato, ha lo scopo di ridurre la gravità della malattia, nel caso la si contragga.
 Come vedremo dopo, non vi è una forma grave, dipende solo dalla tempestività della cura; se si attende il peggioramento diventa grave, se si interviene tempestivamente non diventa grave.
 [link documento](https://www.aifa.gov.it/documents/20142/1297852/domande_risposte_vaccini_COVID.pdf)
@@ -155,6 +181,15 @@ La sperimentazione finisce nel 2023.
 Modulo consenso vaccinazione.
 [link documento](https://www.salute.gov.it/imgs/C_17_pagineAree_5452_6_file.pdf)
 [](assets/pdf/C_17_pagineAree_5452_6_file.pdf)
+
+### Vaccini sperimentali
+De Magistris afferma in TV che siamo tutti cavie e non sappiamo cosa stiamo iniettando.
+[link video](assets/videos/cavie-de-magistris.mp4)
+
+Prof. Andrea Crisanti: "Non saremmo mai dovuti arrivare a questo punto. Ai cittadini non è stata detta la verità. Non è stato detto che questi sono vaccini utilizzati in via emergenziale sulla base di dati preliminari".
+[link articolo](https://gasp.news/crisanti-diretta-sperimentazione-vaccinazione-massa-video/)
+[](assets/pdf/crisanti-sperimentazione.pdf)
+
 
 #### Scudo penale medici
 I medici che iniettano i vaccini sono protetti penalmente, ma non civilmente per i potenziali danni che arrecano.
@@ -226,6 +261,15 @@ Anche Ansa riporta lo studio effettuato sulla proteina spike causa di ictus e tr
 [link articolo salute benessere](https://www.ansa.it/canale_saluteebenessere/notizie/salute_bambini/medicina/2021/05/11/covidspike-danneggia-direttamente-cellule-di-vasi-sanguigni_6ba56a18-2c1a-48c5-9ae5-51a7204054f9.html)
  | 
 [link articolo ansa](https://www.ogginotizie.eu/ogginotizie/dopo-la-notizia-dellansa-che-la-proteina-spike-danneggia-le-cellule-i-politici-sono-silenti-il-mic-chiede-spiegazioni-al-governo/)
+
+Autopsia dopo morte da vaccino: tossine in tutti gli organi.
+La spike si lega ai recettori ACE2 in tutto il corpo.
+[link articolo francese](https://jeminformetv.com/2021/06/15/vaccin-anti-covid19-du-poison-dans-le-corps/amp/)
+[link articolo tradotto ita](assets/pdf/autopsia-dopo-morte-vaccino-stato-organi.pdf)
+
+Studio conferma che la proteina spike bypassa la membrana emato-ecefalica.
+[link articolo](https://www.biorxiv.org/content/biorxiv/early/2020/12/04/2020.12.04.409144.full.pdf)
+[](assets/pdf/studio-spike-barriera-emato-encefalica.pdf)
 
 
 #### Effetti sulle generazioni future
@@ -299,6 +343,14 @@ Per fare in modo che si possano usare terapie sperimentali sulla massa una condi
 Vi sono vari gruppi, qui cito, quelli che conosco, ma possibile ve ne siano altri: 
  - https://www.terapiadomiciliarecovid19.org/
  - https://ippocrateorg.org/
+ 
+Il dott. Riccardo Szumski, che fa parte di terapie docimiciliari cocid19, ha curato i suoi pazienti con 0 decessi, non farà il vaccino perchè è una sperimentazione di massa.
+[link articolo](https://corrieredelveneto.corriere.it/veneto/cronaca/21_giugno_15/riccardo-szumski-non-mi-vaccinero-miei-pazienti-zero-decessi-870d40b4-cdb6-11eb-b3cc-7685f3a3aba2.shtml)
+[](assets/pdf/riccardo-szumski-vaccino.pdf)
+
+Anche medici in America usano gli stessi protoccoli che salvano le vite in Italia, ma che in entrambi i paesi non sono considerate cure
+[link articolo inglese](https://www.thegatewaypundit.com/2021/06/wayne-root-brilliant-hero-doctor-says-cdc-bureaucrats-democrat-politicians-guilty-mass-murder-crimes-humanity)
+[link articolo tradotto ita](assets/pdf/america-cure-domiciliari-bloccate.pdf)
  
 Le cure ci sono, come scritto sopra e funzionano riducendo a quasi 0 le ospedalizzazioni e i morti, quando le cure vengono effettuate ai primi sintomi.
 Questo è in contrasto con tachipirina e vigile attesa, strada per la ospedalizzazione, scelta dal governo italiano.
